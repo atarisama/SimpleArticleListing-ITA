@@ -25,4 +25,4 @@ Deploy: [LINK](https://atarisama.github.io/SimpleArticleListing-ITA/)
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+Gracias a esta actividad pude utilizar de forma correcta la etiqueta <article> para estructurar de una buena manera el contenido de una pagina web ademas de que pude pulir mis habilidades para dar limpieza a mis paginas web.
