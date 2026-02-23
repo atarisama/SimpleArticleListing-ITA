@@ -21,7 +21,7 @@ Desarrollar una página web con HTML y CSS que muestre un listado de artículos.
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/atarisama/SimpleArticleListing-ITA
-Deploy: [LINK]([http://yomidev.github.io/newsletter/](https://atarisama.github.io/SimpleArticleListing-ITA/))
+Deploy: [LINK](https://atarisama.github.io/SimpleArticleListing-ITA/)
 ---
 
 ## 📝 Reflexión
